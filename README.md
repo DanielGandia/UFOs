@@ -11,11 +11,11 @@ The client's webpage and dynamic table are working as intended, but she’d like
 
 ## Results:
 
-The webpage has a table with information related to the UFO Sightings across the United States. The table can be filtered by any of the following criteria: Date, City, State, Country and Shape.
+The webpage has a table with information related to the UFO Sightings across the United States. The table can be filtered by any of the following criteria: Date, City, State, Country and Shape. After you are done filtering, you can click on the "Clear Filters" button to restore the table back to its original form.
 
 ![filter_search.png](https://github.com/DanielGandia/UFOs/blob/main/static/images/filter_search.png)
 
-In order to use the filters, you can enter the information on the search bars for each of the criteria that you would like for the table to be filtered. I have copied an example below and selected the Date of "1/11/2010", State of "fl" and Country "us". The table was then filtered to show only two results.
+In order to use the filters, you can enter the information on the search bars for each of the criteria that you would like for the table to be filtered. I have copied an example below and selected the Date of "1/11/2010", State of "fl" and Country "us". The table was then filtered to display only two results that match the criteria selected.
 
 ### Filter Search Example
 
