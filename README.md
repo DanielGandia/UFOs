@@ -29,6 +29,6 @@ Below is an example of how the webpage appears in GitHub Pages.
 
 ## Summary
 
-We have created a functioning webpage that will allow visitors to view sightings that occur in different areas. However, a drawback of the current webpage is that the data is limited to sightings that occurred in the United States and only from the first few weeks of January of 2010. The data will not be automatically updated as events happen across the country unless the data file is manually updated.
+We have created a functioning webpage that will allow visitors to view sightings that occur in different areas. However, a drawback of the current webpage is that the data is limited to sightings that have mainly occurred in the United States and only from the first few weeks of January of 2010. The data will not be automatically updated as events happen across the country unless the data file is manually updated.
 
 A recommendation that I would suggest is to add a banner or ticker that provides the latest news regarding UFO sightings. By doing this, visitors will be more engaged and also be informed as events occur. Another recommendation would be to have a section or tab in the webpage that has photos and videos of the sightings. Both of these will create a landing zone for those truly seeking contact.
